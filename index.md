@@ -8,6 +8,11 @@ Snake game is a simple and addictive puzzle game where players control a continu
 ### File Location
 `<installation directory>/CustomLevel/<your files>.txt`
 ### Format
+|zz|xx|
+|--|--|
+|dd|tt|
+
+
 <table>
 <tr><td><b>Symbol</b></td><td><b>Implication<b></td>  </tr>
 <tr><td><b><span style="background-color: #eeeeee">x,y</span></b></td><td>the position of the snake's head (0 ≤ x ≤ 40, 0 ≤ y ≤ 28).</td>  </tr>
