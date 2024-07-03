@@ -8,8 +8,9 @@ Snake game is a simple and addictive puzzle game where players control a continu
 ### File Location
 `<installation directory>/CustomLevel/<your files>.txt`
 ### Format
+
 |zz|xx|
-|--|--|
+|---|---|
 |dd|tt|
 
 
