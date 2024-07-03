@@ -24,7 +24,7 @@ Snake game is a simple and addictive puzzle game where players control a continu
 ### File Location
 `<installation directory>/res/themes.json`
 ### Format
-```json
+```text
 {
 name1:[[front-color],[back-color]],
 name2:[[front-color],[back-color]],
@@ -33,7 +33,7 @@ name2:[[front-color],[back-color]],
 ### example
 ```json
 {
-	Black-Green: [[40, 60, 20, 255],[90, 140, 40, 255]],
+    Black-Green: [[40, 60, 20, 255],[90, 140, 40, 255]],
     Green-Black: [[90, 140, 40, 255], [40, 60, 20, 255]],
     Black-White: [[50, 50, 50, 255], [200, 200, 200, 255]],
     White-Black: [[200, 200, 200, 255], [50, 50, 50, 255]],
