@@ -17,7 +17,9 @@ Snake game is a simple and addictive puzzle game where players control a continu
 
 ## Custom Level
 ### File Location
-`<installation directory>/CustomLevel/<your files>.txt`
+```text
+<installation directory>/CustomLevel/<your files>.txt
+```
 ### Format
 
 |**Symbol**|**Implication**|  
