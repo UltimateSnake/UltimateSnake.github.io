@@ -9,9 +9,10 @@ Snake game is a simple and addictive puzzle game where players control a continu
 | :--- | :--- |  
 |**`↑↓←→`**|move snake (4 directions mode).|  
 |**`←→`**|move snake (2 directions mode).|  
-|**`Esc`**|settings.|  
-|**`Space`**|pause.|  
+|**`Esc`**|settings / back.|  
+|**`Space`**|pause / restart.|  
 |**`F1`**|leaderboard / replay list.|  
+|**`H`**|main menu.|  
 
 ## Custom Level
 ### File Location
