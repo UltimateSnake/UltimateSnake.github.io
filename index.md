@@ -4,6 +4,14 @@ Snake game is a simple and addictive puzzle game where players control a continu
 ## Control
 ![help_control.png](help_control.png)
 
+|**Key**|**Function**|  
+| :--- | :--- |  
+|**`↑↓←→`**|move snake (4 directions mode).|  
+|**`←→`**|move snake (2 directions mode).|  
+|**`Esc`**|settings.|  
+|**`Space`**|pause.|  
+|**`F1`**|leaderboard / replay list.|  
+
 ## Custom Level
 ### File Location
 `<installation directory>/CustomLevel/<your files>.txt`
