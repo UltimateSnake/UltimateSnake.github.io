@@ -8,16 +8,17 @@ Snake game is a simple and addictive puzzle game where players control a continu
 ### File Location
 `<installation directory>/CustomLevel/<your files>.txt`
 ### Format
-|**Symbol**|**Implication**|  
-| :--- | :--- |  
-|**`x,y`**|the position of the snake's head (0 ≤ x ≤ 40, 0 ≤ y ≤ 28).|  
-|**`len`**|the initial length of the snake.|  
-|**`speed`**|the base speed of the snake.|  
-|**`wrap`**|wrap mode (on/off).|  
-|**`block`**|block mode (on/off).|  
-|**`prus`**|pursuit mode (on/off).|  
-|**`#`**|block.|  
-|**`.`**|food.|   
+<table>
+<tr><td>**Symbol**</td><td>**Implication**</td>  </tr>
+<tr><td>**`x,y`**</td><td>the position of the snake's head (0 ≤ x ≤ 40, 0 ≤ y ≤ 28).</td>  </tr>
+<tr><td>**`len`**</td><td>the initial length of the snake.</td>  </tr>
+<tr><td>**`speed`**</td><td>the base speed of the snake.</td>  </tr>
+<tr><td>**`wrap`**</td><td>wrap mode (on/off).</td>  </tr>
+<tr><td>**`block`**</td><td>block mode (on/off).</td>  </tr>
+<tr><td>**`prus`**</td><td>pursuit mode (on/off).</td>  </tr>
+<tr><td>**`#`**</td><td>block.</td>  </tr>
+<tr><td>**`.`**</td><td>food.</td>   </tr>
+</table>
 
 ![EverEdit_2wHUkRs4GM.png](EverEdit_2wHUkRs4GM.png)
 ## Theme
