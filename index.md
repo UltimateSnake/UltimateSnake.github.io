@@ -17,6 +17,7 @@ Snake game is a simple and addictive puzzle game where players control a continu
 |**`block`**|block mode (on/off).|
 |**`prus`**|pursuit mode (on/off).|
 |**`#`**|block.|
-|**`.`**|food.|
+|**`.`**|food.|  
+
 ![EverEdit_2wHUkRs4GM.png](EverEdit_2wHUkRs4GM.png)
 ## Theme
