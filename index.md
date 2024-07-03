@@ -5,5 +5,6 @@ Snake game is a simple and addictive puzzle game where players control a continu
 ![help_control.png](help_control.png)
 
 ## Custom Level
+`<installation directory>/CustomLevel/`
 
 ## Theme
