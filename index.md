@@ -8,12 +8,12 @@ Snake game is a simple and addictive puzzle game where players control a continu
 
 |**Key**|**Function**|  
 | :--- | :--- |  
-|**`↑↓←→`**|move snake (4 directions mode).|  
-|**`←→`**|move snake (2 directions mode).|  
-|**`Esc`**|settings/back.|  
-|**`Space`**|pause/restart.|  
-|**`F1`**|leaderboard/replay list.|  
-|**`H`**|main menu.|  
+|**↑↓←→**|move snake (4 directions mode).|  
+|**←→**|move snake (2 directions mode).|  
+|**Esc**|settings/back.|  
+|**Space**|pause/restart.|  
+|**F1**|leaderboard/replay list.|  
+|**H**|main menu.|  
 
 ## Custom Level
 ### File Location
@@ -22,14 +22,14 @@ Snake game is a simple and addictive puzzle game where players control a continu
 
 |**Symbol**|**Implication**|  
 | :--- | :--- |  
-|**`x,y`**|the position of the snake's head (0 ≤ x ≤ 40, 0 ≤ y ≤ 28).|  
-|**`len`**|the initial length of the snake.|  
-|**`speed`**|the base speed of the snake.|  
-|**`wrap`**|wrap mode (on/off).|  
-|**`block`**|block mode (on/off).|  
-|**`prus`**|pursuit mode (on/off).|  
-|**`#`**|block.|  
-|**`.`**|food.|   
+|**x,y**|the position of the snake's head (0 ≤ x ≤ 40, 0 ≤ y ≤ 28).|  
+|**len**|the initial length of the snake.|  
+|**speed**|the base speed of the snake.|  
+|**wrap**|wrap mode (on/off).|  
+|**block**|block mode (on/off).|  
+|**prus**|pursuit mode (on/off).|  
+|**#**|block.|  
+|**.**|food.|   
 
 ![EverEdit_2wHUkRs4GM.png](EverEdit_2wHUkRs4GM.png)
 
