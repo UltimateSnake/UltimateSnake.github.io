@@ -15,7 +15,7 @@ Snake game is a simple and addictive puzzle game where players control a continu
 <tr><td><b><span style="background-color: #eeeeee">speed</span></b></td><td>the base speed of the snake.</td>  </tr>
 <tr><td><b><span style="background-color: #eeeeee">wrap</span></b></td><td>wrap mode (on/off).</td>  </tr>
 <tr><td><b><span style="background-color: #eeeeee">block</span></b></td><td>block mode (on/off).</td>  </tr>
-<tr><td><b><span style="background-color: #eeeeee">prus</span></b></td><td>pursuit mode (on/off).</td>  </tr>
+<tr><td><b><span style="background-color: #eeeeee">prus</span></b></td><td>pursuit mode (on/off).</td></tr>
 <tr><td><b><span style="background-color: #eeeeee">#</span></b></td><td>block.</td>  </tr>
 <tr><td><b><span style="background-color: #eeeeee">.</span></b></td><td>food.</td>   </tr>
 </table>
