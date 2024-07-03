@@ -10,14 +10,14 @@ Snake game is a simple and addictive puzzle game where players control a continu
 ### Format
 <table>
 <tr><td><b>Symbol</b></td><td><b>Implication<b></td>  </tr>
-<tr><td><b><span style="background-color: #333333">x,y</span></b></td><td>the position of the snake's head (0 ≤ x ≤ 40, 0 ≤ y ≤ 28).</td>  </tr>
-<tr><td><b><span style="background-color: #333333">len</span></b></td><td>the initial length of the snake.</td>  </tr>
-<tr><td><b><span style="background-color: #333333">speed</span></b></td><td>the base speed of the snake.</td>  </tr>
-<tr><td><b><span style="background-color: #333333">wrap</span></b></td><td>wrap mode (on/off).</td>  </tr>
-<tr><td><b><span style="background-color: #333333">block</span></b></td><td>block mode (on/off).</td>  </tr>
-<tr><td><b><span style="background-color: #333333">prus</span></b></td><td>pursuit mode (on/off).</td>  </tr>
-<tr><td><b><span style="background-color: #333333">#</span></b></td><td>block.</td>  </tr>
-<tr><td><b><span style="background-color: #333333">.</span></b></td><td>food.</td>   </tr>
+<tr><td><b><span style="background-color: #eeeeee">x,y</span></b></td><td>the position of the snake's head (0 ≤ x ≤ 40, 0 ≤ y ≤ 28).</td>  </tr>
+<tr><td><b><span style="background-color: #eeeeee">len</span></b></td><td>the initial length of the snake.</td>  </tr>
+<tr><td><b><span style="background-color: #eeeeee">speed</span></b></td><td>the base speed of the snake.</td>  </tr>
+<tr><td><b><span style="background-color: #eeeeee">wrap</span></b></td><td>wrap mode (on/off).</td>  </tr>
+<tr><td><b><span style="background-color: #eeeeee">block</span></b></td><td>block mode (on/off).</td>  </tr>
+<tr><td><b><span style="background-color: #eeeeee">prus</span></b></td><td>pursuit mode (on/off).</td>  </tr>
+<tr><td><b><span style="background-color: #eeeeee">#</span></b></td><td>block.</td>  </tr>
+<tr><td><b><span style="background-color: #eeeeee">.</span></b></td><td>food.</td>   </tr>
 </table>
 
 ![EverEdit_2wHUkRs4GM.png](EverEdit_2wHUkRs4GM.png)
