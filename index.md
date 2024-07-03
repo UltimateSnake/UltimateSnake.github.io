@@ -9,22 +9,16 @@ Snake game is a simple and addictive puzzle game where players control a continu
 `<installation directory>/CustomLevel/<your files>.txt`
 ### Format
 
-|zz|xx|
-|---|---|
-|dd|tt|
-
-
-<table>
-<tr><td><b>Symbol</b></td><td><b>Implication<b></td>  </tr>
-<tr><td><b><span style="background-color: #eeeeee">x,y</span></b></td><td>the position of the snake's head (0 ≤ x ≤ 40, 0 ≤ y ≤ 28).</td>  </tr>
-<tr><td><b><span style="background-color: #eeeeee">len</span></b></td><td>the initial length of the snake.</td>  </tr>
-<tr><td><b><span style="background-color: #eeeeee">speed</span></b></td><td>the base speed of the snake.</td>  </tr>
-<tr><td><b><span style="background-color: #eeeeee">wrap</span></b></td><td>wrap mode (on/off).</td>  </tr>
-<tr><td><b><span style="background-color: #eeeeee">block</span></b></td><td>block mode (on/off).</td>  </tr>
-<tr><td><b><span style="background-color: #eeeeee">prus</span></b></td><td>pursuit mode (on/off).</td></tr>
-<tr><td><b><span style="background-color: #eeeeee">#</span></b></td><td>block.</td>  </tr>
-<tr><td><b><span style="background-color: #000000">.</span></b></td><td>food.</td>   </tr>
-</table>
+|**Symbol**|**Implication**|  
+| :--- | :--- |  
+|**`x,y`**|the position of the snake's head (0 ≤ x ≤ 40, 0 ≤ y ≤ 28).|  
+|**`len`**|the initial length of the snake.|  
+|**`speed`**|the base speed of the snake.|  
+|**`wrap`**|wrap mode (on/off).|  
+|**`block`**|block mode (on/off).|  
+|**`prus`**|pursuit mode (on/off).|  
+|**`#`**|block.|  
+|**`.`**|food.|   
 
 ![EverEdit_2wHUkRs4GM.png](EverEdit_2wHUkRs4GM.png)
 
