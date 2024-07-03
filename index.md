@@ -35,7 +35,10 @@ Snake game is a simple and addictive puzzle game where players control a continu
 
 ## Theme
 ### File Location
-`<installation directory>/res/themes.json`
+```text
+<installation directory>/res/themes.json
+```
+
 ### Format
 The theme file is in JSON.
 ```text
