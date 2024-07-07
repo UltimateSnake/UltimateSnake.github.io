@@ -34,6 +34,7 @@ Snake game is a simple and addictive puzzle game where players control a continu
 |**.**|food.|   
 
 ![EverEdit_2wHUkRs4GM.png](EverEdit_2wHUkRs4GM.png)
+![Snake_pjQArWOzD5.png](Snake_pjQArWOzD5.png)
 
 ## Theme
 ### File Location
