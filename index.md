@@ -1,5 +1,4 @@
-# Introduction
-Snake game is a simple and addictive puzzle game where players control a continuously growing snake, eating food to increase its length while avoiding collisions with itself or the walls.
+<iframe src="https://store.steampowered.com/widget/3061330/" frameborder="0" width="646" height="190"></iframe>
 # Help
 ## Control
 ### Gamepad
