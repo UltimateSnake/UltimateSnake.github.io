@@ -33,6 +33,7 @@ Snake game is a simple and addictive puzzle game where players control a continu
 |**#**|block.|  
 |**.**|food.|   
 
+### Example
 ![EverEdit_2wHUkRs4GM.png](EverEdit_2wHUkRs4GM.png)
 ![Snake_pjQArWOzD5.png](Snake_pjQArWOzD5.png)
 
@@ -50,7 +51,7 @@ name1:[[front-color],[back-color]],
 name2:[[front-color],[back-color]],
 }
 ```
-### example
+### Example
 ```json
 {
     "Black-Green": [[40, 60, 20, 255],[90, 140, 40, 255]],
